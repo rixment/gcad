@@ -12,5 +12,5 @@ I've tried to make sense of the remaining scatterings of code that were waiting 
 
 It is still a piece of code that I'm proud of and I'm really happy that after so many years it can finally rest in... github
 
-# Copyright and License
+## Copyright and License
 Copyright 2005-2020 Rixment. Code released under the [MIT](./LICENSE) license.
